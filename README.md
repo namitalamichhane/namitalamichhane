@@ -56,5 +56,5 @@ Breaking down data and ML concepts → [Substack](https://substack.com/@namital)
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2d3436&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=87a878&height=80&section=footer" width="100%"/>
 </div>
