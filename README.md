@@ -10,7 +10,7 @@
 
 I am currently pursuing my **Master of Science in Applied Data Analytics** at Appalachian State University's Walker College of Business. With professional experience managing operational data, I bring a unique industry perspective to data modeling. 
 
-My portfolio showcases a selection of my engineering capabilities—ranging from automating predictive models to deploying interactive applications. Whether building machine learning pipelines, time-series forecasting frameworks, or structural data architectures, I am dedicated to using technology to solve complex business constraints.
+My portfolio showcases a selection of my engineering capabilities ranging from automating predictive models to deploying interactive applications. Whether building machine learning pipelines, time-series forecasting frameworks, or structural data architectures, I am dedicated to using technology to solve complex business constraints.
 
 ---
 
