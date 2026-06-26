@@ -1,60 +1,53 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=87a878&height=140&section=header&text=Namita%20Lamichhane&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Data%20Analytics%20%7C%20Machine%20Learning%20%7C%20Statistical%20Modeling&descSize=16&descAlignY=68&descColor=f0f4ef" width="100%"/>
-
+  <h1>Namita Lamichhane</h1>
+  <p>Data Analyst | Machine Learning | Statistical Modeling</p>
+  <p>Boone, NC · <a href="https://substack.com/@namital">Substack</a> · <a href="https://linkedin.com/in/namitalamichhane">LinkedIn</a></p>
 </div>
 
-<br>
+---
 
-MS in Applied Data Analytics
+## About Me
 
-I work at the intersection of statistics and business problems; building models that are rigorous, interpretable, and actually useful.
+I am currently pursuing my **Master of Science in Applied Data Analytics** at Appalachian State University's Walker College of Business. With professional experience managing operational data, I bring a unique industry perspective to data modeling. 
+
+My portfolio showcases a selection of my engineering capabilities—ranging from automating predictive models to deploying interactive applications. Whether building machine learning pipelines, time-series forecasting frameworks, or structural data architectures, I am dedicated to using technology to solve complex business constraints.
 
 ---
 
-### Focus Areas
+## Technical Skills
 
-&nbsp;&nbsp;`Machine Learning` &nbsp; Classification · Clustering · Model Explainability (SHAP)
+Below is a list of the foundational skills and frameworks I use to develop and deploy data applications successfully.
 
-&nbsp;&nbsp;`NLP & Text Analytics` &nbsp; Sentiment Analysis · Topic Modeling · Feature Engineering
-
-&nbsp;&nbsp;`Time-Series` &nbsp; ARIMA · ETS · Theta · Structural Break Analysis
-
-&nbsp;&nbsp;`Data Engineering` &nbsp; SQL Pipelines · ETL · Data Validation
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23270C40.svg?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B5C?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
-### Languages & Tools
+## Portfolio Overview
 
-&nbsp;&nbsp;**Proficient** &nbsp;&nbsp; Python &nbsp;·&nbsp; R &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Git
+### Machine Learning & Application Development
 
-&nbsp;&nbsp;**Visualization** &nbsp;&nbsp; Power BI &nbsp;·&nbsp; Tableau &nbsp;·&nbsp; SAS Viya
+| [Data Quality & Predictive Analytics Workbench](https://github.com/namitalamichhane/data-quality-workbench) | [Student Dropout Prediction Optimization](YOUR_REPO_LINK) |
+| :--- | :--- |
+| Streamlit application that automates EDA, anomalies auditing, and generates a Data Health Score alongside a crash-proof training pipeline. | Random Forest classification system handling extreme class imbalance via SMOTE to achieve a Macro F1 score of 0.718. |
 
-&nbsp;&nbsp;**Cloud** &nbsp;&nbsp; AWS S3 &nbsp;·&nbsp; Google BigQuery &nbsp;·&nbsp; Google Analytics *(exposure)*
+### Statistical Modeling & Advanced Analytics
 
----
-
-### Projects
-
-| Project | Stack | Outcome |
-|---|---|---|
-| [Student Dropout Prediction](#) | Python · XGBoost · SHAP · SMOTE | Random Forest · Macro F1: 0.718 [CI: 0.69–0.75] |
-| [Consumer Review Analytics](#) | Python · NLP · GPT-2 · Neg. Binomial | Modeled helpfulness drivers across 9,370 reviews |
-| [Time-Series Forecasting](#) | R · ARIMA · ETS · Theta | Demand forecasting on U.S. airline data 2010–2025 |
-| [Walmart Retail Analytics](#) | Python · MySQL · SQLAlchemy | End-to-end pipeline · branch & category profitability |
+| [Consumer Review Authenticity Framework](YOUR_REPO_LINK) | [Enterprise Demand Forecasting](YOUR_REPO_LINK) |
+| :--- | :--- |
+| NLP pipeline processing 9,370 multi-platform reviews utilizing GPT-2 feature extraction and Negative Binomial Regression modeling. | Time-series pipeline built in R using ARIMA, ETS, and Theta configurations to model passenger datasets over 15 years. |
 
 ---
 
-### Writing
+## Publications & Writing
 
-Breaking down data and ML concepts → [Substack](https://substack.com/@namital)
+- **Technical Deep Dives on Substack:** Translating complex statistical methodologies and algorithmic logic into clean business assets.
+
+[![Substack](https://img.shields.io/badge/Substack-%23006B6E.svg?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@namital)
 
 ---
 
 <div align="center">
-<a href="mailto:namitalamichhane@gmail.com">namitalamichhane@gmail.com</a>
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=87a878&height=80&section=footer" width="100%"/>
+  <p>Connect with me via Substack or LinkedIn buttons above.</p>
 </div>
